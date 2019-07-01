@@ -4,6 +4,9 @@
 <h1 align="center">Welcome to Cargo-React 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
+	<a href="https://github.com/loconav-tech/cargo-react/blob/master/LICENSE.md">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+  </a>
   <a href="https://twitter.com/beeeku">
     <img alt="Twitter: beeeku" src="https://img.shields.io/twitter/follow/beeeku.svg?style=social" target="_blank" />
   </a>
