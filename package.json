@@ -37,8 +37,8 @@
   },
   "dependencies": {
     "typescript": "^3.5.2"
-	},
-	"peerDependencies": {
+  },
+  "peerDependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
