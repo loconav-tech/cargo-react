@@ -16,8 +16,8 @@
 To start your own React component library, clone this repository and start your own Git journey!
 
 ```bash
-$ git clone https://github.com/cwlsn/rinse-react cool-name
-$ cd awesome-name
+$ git clone https://github.com/loconav-tech/cargo-react awesome-new-library
+$ cd awesome-new-library
 $ rm -rf .git
 $ git init
 ```
@@ -34,7 +34,6 @@ $ yarn run storybook
 Navigate to [http://localhost:9001](http://localhost:9001) to view your stories. They should automatically update as you develop.
 
 Storybook will pick up any story from the `stories.js` file in a component folder..
-```
 
 ## Author
 
