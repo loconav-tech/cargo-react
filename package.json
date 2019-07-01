@@ -2,9 +2,9 @@
   "name": "redash",
   "version": "0.0.1",
   "description": "",
-	"main": "build/index.js",
-	"module": "build/index.es.js",
-	"jsnext:main": "build/index.es.js",
+  "main": "build/index.js",
+  "module": "build/index.es.js",
+  "jsnext:main": "build/index.es.js",
   "scripts": {
     "build": "rollup -c",
     "test": "jest"
@@ -13,6 +13,9 @@
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^24.0.15",
+    "@types/react": "^16.8.22",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-test-renderer": "^16.8.2",
     "@typescript-eslint/eslint-plugin": "^1.11.0",
     "@typescript-eslint/parser": "^1.11.0",
     "eslint": "^6.0.1",
@@ -21,6 +24,10 @@
     "eslint-plugin-react": "^7.14.2",
     "jest": "^24.8.0",
     "prettier": "^1.18.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts-ts": "^3.1.0",
+    "react-test-renderer": "^16.8.6",
     "rollup": "^1.16.3",
     "rollup-plugin-commonjs": "^10.0.1",
     "rollup-plugin-node-resolve": "^5.2.0",
@@ -30,13 +37,16 @@
   },
   "dependencies": {
     "typescript": "^3.5.2"
+	},
+	"peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "jest": {
     "preset": "ts-jest",
     "testEnvironment": "node"
-	},
-	"files": [
-		"build"
-	]
-
+  },
+  "files": [
+    "build"
+  ]
 }
