@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sources":["../src/index.ts"],"sourcesContent":["export function testMethod(param: string) {\n  return \"Hello \" + param;\n}\n"],"names":[],"mappings":";;;;SAAgB,UAAU,CAAC,KAAa;IACtC,OAAO,QAAQ,GAAG,KAAK,CAAC;CACzB;;;;"}
