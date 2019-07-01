@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://i.ibb.co/9tKsF2k/logo.png" width="300" height= "300" alt="cargo" />
+	<img src="https://i.ibb.co/9tKsF2k/logo.png" width="450" height= "450" alt="cargo" />
 </p>
 <h1 align="center">Welcome to Cargo-React 👋</h1>
 <p>
