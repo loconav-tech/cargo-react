@@ -1,12 +1,12 @@
 /**
- * @class ExampleComponent
+ * @class HelloComponent
  */
 
 import * as React from "react";
 
 export type Props = { text: string };
 
-export default class ExampleComponent extends React.Component<Props> {
+export default class HelloComponent extends React.Component<Props> {
   render() {
     const { text } = this.props;
 
