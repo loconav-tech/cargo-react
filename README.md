@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://i.ibb.co/9tKsF2k/logo.png" width="300" height= "300" alt="cargo" />
 </p>
-<h1 align="center">Welcome to cargo-react 👋</h1>
+<h1 align="center">Welcome to Cargo-React 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/beeeku">
@@ -20,6 +20,7 @@ $ git clone https://github.com/loconav-tech/cargo-react awesome-new-library
 $ cd awesome-new-library
 $ rm -rf .git
 $ git init
+$ yarn
 ```
 
 ## Development and Storybook
