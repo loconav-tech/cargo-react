@@ -1,5 +1,5 @@
 import * as React from "react";
-import Hello from "../src/index";
+import Hello from "../src/components/Hello/index";
 import * as renderer from "react-test-renderer";
 
 test("Component should show 'red' text 'Hello World'", () => {
