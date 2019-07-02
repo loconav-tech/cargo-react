@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component should match with Dark Medium 1`] = `
+<button
+  className="sc-bdVaJa jgfyHn"
+>
+  Click Me
+</button>
+`;
+
+exports[`Component should match with Look light size Big and Radius 1`] = `
+<button
+  className="sc-bdVaJa hmFDPf"
+>
+  Click Me
+</button>
+`;
+
+exports[`Component should match with Secondary Medium 1`] = `
+<button
+  className="sc-bdVaJa fgQjOJ"
+>
+  Click Me
+</button>
+`;
+
+exports[`Component should match with general component 1`] = `
+<button
+  className="sc-bdVaJa bojbCQ"
+>
+  Click Me
+</button>
+`;
