@@ -5,7 +5,7 @@ import Hello from './index';
 
 const stories = storiesOf('Hello', module);
 
-stories.add(
+stories.addWithJSX(
 	'Hello with World',
 	() => <Hello text="World" />,
 	{}
